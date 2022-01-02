@@ -1,0 +1,1 @@
+module "github.com/enablefzm/gotools/vatools"
