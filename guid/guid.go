@@ -2,8 +2,8 @@ package guid
 
 import (
 	"crypto/rand"
-"errors"
-"fmt"
+	"errors"
+	"fmt"
 )
 
 // Guid is a globally unique 16 byte identifier
